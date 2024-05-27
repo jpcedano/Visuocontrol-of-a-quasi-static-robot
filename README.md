@@ -25,7 +25,7 @@ This project simulates a robotic arm controlled by hand gestures using OpenCV an
 **Clone the Repository**
 
 ```bash
-git clone [https://github.com/your-username/your-repository.git](https://github.com/your-username/your-repository.git)
+git clone https://github.com/jpcedano/Visuocontrol-of-a-quasi-static-robot.git
 cd your-repository
 ```
 
